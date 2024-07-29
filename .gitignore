@@ -3,3 +3,7 @@
 !*.h
 !.gitignore
 !con-dan
+funcname.c
+funcname2.h
+functable.c
+tagtable.c
