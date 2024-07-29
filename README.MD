@@ -1,3 +1,3 @@
-An effort to port w3m source to my system.  
+An attempt to port w3m source to my system.  
 e.g. using [gc](https://github.com/ivmai/bdwgc) v8.2.6, using modern c...  
 However I gave up and used conda instead.  
