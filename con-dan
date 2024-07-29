@@ -1,0 +1,3 @@
+#!/usr/bin/fish
+
+env CPPFLAGS="-I/usr/include/openssl -I$HOME/programs/bdwgc/include" LDFLAGS="-L$HOME/programs/bdwgc/out" ./configure
