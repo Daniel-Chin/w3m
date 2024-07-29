@@ -407,6 +407,7 @@ main(int argc, char **argv, char **envp)
 #endif
 
 #ifndef HAVE_SYS_ERRLIST
+	void prepare_sys_errlist(void);
     prepare_sys_errlist();
 #endif				/* not HAVE_SYS_ERRLIST */
 
