@@ -637,7 +637,7 @@ strerror(int errno)
 #ifndef HAVE_SYS_ERRLIST
 char **sys_errlist;
 
-prepare_sys_errlist()
+void prepare_sys_errlist()
 {
     int i, n;
 
